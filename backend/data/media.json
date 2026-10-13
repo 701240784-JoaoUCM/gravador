@@ -1,0 +1,38 @@
+[
+  {
+    "id": "sample-vid-01",
+    "title": "Amostra de Video Demonstrativo",
+    "description": "Clipe em alta definicao para demonstracao academica do reprodutor integrado.",
+    "type": "video",
+    "filename": "sample_demo_clip.mp4",
+    "stored_filename": "sample_demo_clip.mp4",
+    "relative_path": "videos/sample_demo_clip.mp4",
+    "url": "/uploads/videos/sample_demo_clip.mp4",
+    "size_bytes": 32,
+    "created_at": "2026-10-13T16:05:25.820135Z"
+  },
+  {
+    "id": "sample-img-01",
+    "title": "Capa do Projeto Academico",
+    "description": "Identidade visual da aplicacao com especificacoes tecnicas.",
+    "type": "image",
+    "filename": "sample_academic_cover.png",
+    "stored_filename": "sample_academic_cover.png",
+    "relative_path": "images/sample_academic_cover.png",
+    "url": "/uploads/images/sample_academic_cover.png",
+    "size_bytes": 11788,
+    "created_at": "2026-10-13T16:05:25.820135Z"
+  },
+  {
+    "id": "sample-pdf-01",
+    "title": "Relatorio Tecnico de Engenharia",
+    "description": "Documento oficial detalhando os componentes do sistema e integracao Render.",
+    "type": "pdf",
+    "filename": "sample_academic_report.pdf",
+    "stored_filename": "sample_academic_report.pdf",
+    "relative_path": "pdfs/sample_academic_report.pdf",
+    "url": "/uploads/pdfs/sample_academic_report.pdf",
+    "size_bytes": 2037,
+    "created_at": "2026-10-13T16:05:25.820135Z"
+  }
+]
